@@ -16,7 +16,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devwylvieira&rank_icon=github&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=devwylvieira&locale=pt-br&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -79,8 +78,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/devwylvieira/devwylvieira/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=devwylvieira&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devwylvieira&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
